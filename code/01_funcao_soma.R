@@ -8,4 +8,4 @@ y <- function(vetor){
 
 y(x)
 
-y(1:100)
+y(1:50)
