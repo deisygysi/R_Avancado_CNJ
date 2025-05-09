@@ -7,3 +7,5 @@ y <- function(vetor){
 }
 
 y(x)
+
+y(1:100)
